@@ -50,6 +50,7 @@ public class Calculator {
 		new Divide();
 		new Multiply();
 		new Power();
+		new Divide();
 	}
 
 	private void calculate(String cmdName) {
